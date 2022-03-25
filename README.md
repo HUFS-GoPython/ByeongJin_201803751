@@ -1,2 +1,6 @@
-# ByeongJin_201803751
-# ByeongJin_201803751
+* * *
+* * *
+# Advanced Python Class 
+* * * 
+### ByeongJin_201803751
+* * *
